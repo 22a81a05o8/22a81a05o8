@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramya sada
-- 👀 I’m interested in to projects and internships
+- 👀 I’m interested in projects and internships
 - 🌱 I’m currently learning oops through c++
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me through my email 22a81a05o8@sves.org.in
